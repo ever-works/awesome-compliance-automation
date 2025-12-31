@@ -1,16 +1,16 @@
 # Awesome Compliance Automation
 
 A curated list of Compliance Automation Tools: SOC 2 automation tools, HIPAA compliance software, GDPR, Privacy Automation, etc.
-
 ## 📑 Table of Contents
 
-- [Common](#common)
+- [other-categories](#other-categories)
 - [Hipaa](#hipaa)
 - [Iso 27001](#iso-27001)
 - [Gdpr](#gdpr)
 - [Soc 2](#soc-2)
 
-## Common
+
+## other-categories
 
 - [Vanta](https://www.vanta.com) - Cloud-based trust management and compliance automation platform that centralizes and automates workflows for multiple security and privacy frameworks, including SOC 2, ISO 27001, HIPAA, and GDPR. Vanta connects to cloud infrastructure, HRIS, identity providers, and other systems to monitor controls, collect evidence, and track progress toward certifications and audits across multiple standards. ([Read more](/details/vanta.md)) `soc2` `iso27001` `hipaa`
 - [Vanta Automated Compliance](https://www.vanta.com/products/automated-compliance) - Vanta Automated Compliance is a compliance automation product that continuously monitors systems and controls to streamline achieving and maintaining security and privacy certifications such as SOC 2, ISO 27001, HIPAA, GDPR and other frameworks. It automates evidence collection, control monitoring, and readiness for audits, making it suitable for startups, mid‑market, and enterprises pursuing security and regulatory compliance. ([Read more](/details/vanta-automated-compliance.md)) `soc2` `automation` `multi-framework`
@@ -33,6 +33,7 @@ A curated list of Compliance Automation Tools: SOC 2 automation tools, HIPAA com
 ## Soc 2
 
 - [Vanta SOC 2 Compliance Automation](https://www.vanta.com/products/soc-2) - Cloud-based compliance automation and trust management product focused on SOC 2. Vanta automates evidence collection, helps scope SOC 2 reports, guides implementation of security controls, centralizes documentation, and connects organizations with auditors to streamline SOC 2 audits. ([Read more](/details/vanta-soc-2-compliance-automation.md)) `soc2` `automation`
+
 
 ## ™️ Legal
 
