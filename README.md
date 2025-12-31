@@ -34,6 +34,7 @@ A curated list of Compliance Automation Tools: SOC 2 automation tools, HIPAA com
 ## Soc 2
 
 - [Vanta SOC 2 Compliance Automation](https://www.vanta.com/products/soc-2) - Cloud-based compliance automation and trust management product focused on SOC 2. Vanta automates evidence collection, helps scope SOC 2 reports, guides implementation of security controls, centralizes documentation, and connects organizations with auditors to streamline SOC 2 audits. ([Read more](/details/vanta-soc-2-compliance-automation.md)) `soc2` `automation`
+- [Sprinto AI](https://sprinto.com) - Sprinto AI is an AI-native Governance, Risk, and Compliance (GRC) platform designed to streamline compliance processes for businesses at various stages of growth. It automates evidence collection, updates controls, and keeps organizations audit-ready, reducing the manual effort required for compliance management. ([Read more](/details/sprinto-ai.md)) `AI-native` `compliance` `audit-ready` `automation` `risk management` `SOC 2`
 
 
 ## ™️ Legal
