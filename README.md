@@ -1,24 +1,20 @@
 # Awesome Compliance Automation
 
-A curated list of Compliance Automation Tools: SOC 2 automation tools, HIPAA compliance software, etc. Vendors like Vanta, Drata, Secureframe, Sprinto, AuditBoard, Hyperproof, Thoropass, Tugboat Logic, Anecdotes, Laika. We support following categories: - SOC 2 Automation - ISO 27001 Automation - HIPAA Compliance - GDPR - Privacy Automation - other categories Tags: - startup - enterprise - soc2 - hipaa - iso - 27001 - gdpr - privacy - other tags
-
+A curated list of Compliance Automation Tools: SOC 2 automation tools, HIPAA compliance software, GDPR, Privacy Automation, etc.
 
 ## 📑 Table of Contents
 
-- [Other Categories](#other-categories)
+- [Common](#common)
 - [Hipaa](#hipaa)
 - [Iso 27001](#iso-27001)
 - [Gdpr](#gdpr)
 - [Soc 2](#soc-2)
-- [Privacy](#privacy)
 
-
-## Other Categories
+## Common
 
 - [Vanta](https://www.vanta.com) - Cloud-based trust management and compliance automation platform that centralizes and automates workflows for multiple security and privacy frameworks, including SOC 2, ISO 27001, HIPAA, and GDPR. Vanta connects to cloud infrastructure, HRIS, identity providers, and other systems to monitor controls, collect evidence, and track progress toward certifications and audits across multiple standards. ([Read more](/details/vanta.md)) `soc2` `iso27001` `hipaa`
 - [Vanta Automated Compliance](https://www.vanta.com/products/automated-compliance) - Vanta Automated Compliance is a compliance automation product that continuously monitors systems and controls to streamline achieving and maintaining security and privacy certifications such as SOC 2, ISO 27001, HIPAA, GDPR and other frameworks. It automates evidence collection, control monitoring, and readiness for audits, making it suitable for startups, mid‑market, and enterprises pursuing security and regulatory compliance. ([Read more](/details/vanta-automated-compliance.md)) `soc2` `automation` `multi-framework`
 - [Vanta Platform](https://www.vanta.com/vanta-platform) - Vanta’s trust management and compliance automation platform that streamlines security compliance workflows and audits, including SOC 2, ISO 27001, HIPAA and other frameworks. It automates evidence collection, continuous monitoring, and audit preparation to help organizations achieve and maintain certifications more efficiently. ([Read more](/details/vanta-platform.md)) `soc2` `iso27001` `gdpr`
-- [Toku Compliance Portal](https://blogs.bing.com/search/July-2024/generativesearch) - Toku offers an online compliance portal that centralizes documentation of its security controls, certifications, and compliance status, supporting automated sharing of audit‑relevant information with prospects and customers. ([Read more](/details/toku-compliance-portal.md)) `privacy`
 
 ## Hipaa
 
@@ -37,17 +33,6 @@ A curated list of Compliance Automation Tools: SOC 2 automation tools, HIPAA com
 ## Soc 2
 
 - [Vanta SOC 2 Compliance Automation](https://www.vanta.com/products/soc-2) - Cloud-based compliance automation and trust management product focused on SOC 2. Vanta automates evidence collection, helps scope SOC 2 reports, guides implementation of security controls, centralizes documentation, and connects organizations with auditors to streamline SOC 2 audits. ([Read more](/details/vanta-soc-2-compliance-automation.md)) `soc2` `automation`
-- [EasyLlama Trust Center](https://trust.easyllama.com/) - EasyLlama provides a public Trust Center that consolidates its security practices, compliance certifications, and policies, making it easier for customers to assess SOC 2 and related compliance posture. ([Read more](/details/easyllama-trust-center.md)) `soc2` `privacy`
-- [Epsilon3 Trust Center](https://trust.epsilon3.io/) - Epsilon3 offers an online Trust Center where it shares up‑to‑date information on its security posture and compliance efforts, including certifications and policies, in a centralized, audit‑friendly format. ([Read more](/details/epsilon3-trust-center.md)) `soc2` `privacy`
-- [IcePanel Trust Center](https://trust.icepanel.io/) - IcePanel maintains a Trust Center to communicate its security and compliance controls, certifications, and policies to customers, leveraging automated evidence and status sharing typical of modern compliance automation solutions. ([Read more](/details/icepanel-trust-center.md)) `soc2` `privacy`
-- [Incident.io Trust Center](https://app.vanta.com/incidentio/trust/8uo9cvdecy8657645bhvh2) - Incident.io provides a public Trust Center powered by Vanta to display its security and compliance posture, policies, and reports. It showcases how Incident.io uses automated compliance tooling to maintain and share audit-ready information with customers and prospects. ([Read more](/details/incidentio-trust-center.md)) `soc2` `privacy`
-- [Lumos Trust Center](https://trust.lumos.com/) - Lumos publishes a security and compliance Trust Center, managed through a compliance automation platform, to centralize documentation of its controls, certifications, and policies for frameworks such as SOC 2 and related standards. ([Read more](/details/lumos-trust-center.md)) `soc2` `privacy`
-- [Qualifi Trust Center](https://trust.qualifi.hr) - Qualifi maintains a Trust Center to share real‑time information about its security and compliance controls, certifications, and policies, streamlining diligence for customers and auditors. ([Read more](/details/qualifi-trust-center.md)) `soc2` `privacy`
-
-## Privacy
-
-- [Supabase Security & Compliance](https://reelmind.ai/blog/vipre-business-agent-securing-your-digital-assets) - Supabase hosts a dedicated security and compliance portal summarizing its security controls, certifications, and data protection practices, serving as a continuously updated resource for compliance and risk assessment. ([Read more](/details/supabase-security-compliance.md)) `privacy` `gdpr`
-
 
 ## ™️ Legal
 
