@@ -4,6 +4,8 @@
 
 Sprinto AI is a comprehensive AI-native Governance, Risk, and Compliance (GRC) platform designed to streamline compliance processes for organizations at various stages of growth. It focuses on automating evidence collection, updating controls, and maintaining continuous audit readiness, thereby reducing the manual effort required for compliance management.
 
+![Trust Center](https://sprinto.com/wp-content/uploads/2025/11/trust-center.webp)
+
 **Features**
 
 - **Automated Evidence Collection:** Sprinto AI automates the process of collecting evidence for audits, ensuring that organizations are always prepared for compliance checks.
@@ -26,7 +28,6 @@ Pricing details are not explicitly provided. Interested users are encouraged to 
 **Brand Information**
 
 - **Brand:** Sprinto
-- **Logo:** ![Sprinto Logo](https://sprinto.com/wp-content/uploads/2025/11/trust-center.webp)
 
 **Category & Tags**
 
