@@ -38,6 +38,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 - [PolicyForge](https://policyforge.autonomous-claude.com) - Free privacy policy generator and compliance checker that auto-scans websites for privacy compliance across 10 criteria including GDPR, CCPA, cookie consent, and data retention policies. Features include an embeddable compliance badge, a free JSON API for compliance scoring, and a terms of service generator. `gdpr` `privacy` `free`
 
 - [SENTINEL](https://github.com/sentinel-safety/SENTINEL) - Open-source behavioral intelligence platform for detecting child grooming on digital platforms, with GDPR Article 17 erasure handling, tamper-evident audit logs, and EU DSA/UK Online Safety Act compliance infrastructure. `gdpr` `privacy` `child-safety`
+- [Cookie Banner Auditor](https://movahedi.ca/tools/cookie-banner-auditor/) - Free online tool that audits any website's cookie consent banner: notice quality, consent mechanics, and common dark patterns, checked against GDPR/ePrivacy expectations. No account or install needed. `gdpr` `privacy` `free`
+
 ## Soc 2
 
 - [Vanta SOC 2 Compliance Automation](https://www.vanta.com/products/soc-2) - Cloud-based compliance automation and trust management product focused on SOC 2. Vanta automates evidence collection, helps scope SOC 2 reports, guides implementation of security controls, centralizes documentation, and connects organizations with auditors to streamline SOC 2 audits. ([Read more](/details/vanta-soc-2-compliance-automation.md)) `soc2` `automation`
