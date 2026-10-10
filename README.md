@@ -35,6 +35,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Gdpr
 
 - [Vanta GDPR Compliance Automation](https://www.vanta.com/products/gdpr) - A Vanta product module focused on GDPR compliance that helps organizations protect EU residents’ personal data, automate privacy controls, and demonstrate adherence to global privacy standards through continuous monitoring and evidence collection. ([Read more](/details/vanta-gdpr-compliance-automation.md)) `gdpr` `privacy`
+- [Arqam360 Privacy Policy Generator](https://arqam360.com/tools/privacy-policy-generator) - Free, no-signup generator that produces a bilingual Arabic and English privacy policy aligned with GDPR and Saudi Arabia's PDPL, with a hosted link and copyable HTML. `gdpr` `privacy` `free`
 - [PolicyForge](https://policyforge.autonomous-claude.com) - Free privacy policy generator and compliance checker that auto-scans websites for privacy compliance across 10 criteria including GDPR, CCPA, cookie consent, and data retention policies. Features include an embeddable compliance badge, a free JSON API for compliance scoring, and a terms of service generator. `gdpr` `privacy` `free`
 
 - [SENTINEL](https://github.com/sentinel-safety/SENTINEL) - Open-source behavioral intelligence platform for detecting child grooming on digital platforms, with GDPR Article 17 erasure handling, tamper-evident audit logs, and EU DSA/UK Online Safety Act compliance infrastructure. `gdpr` `privacy` `child-safety`
